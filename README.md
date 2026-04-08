@@ -70,6 +70,10 @@ Download the TCGA-LGG methylation data from [LinkedOmics](http://www.linkedomics
 
 > **Note:** The analysis notebook is written in Spanish.
 
+## Development
+
+Este proyecto fue diseñado y dirigido por **SolFloresLab** — patóloga interesada en la aplicación de la IA a la patología. La elección del dataset (TCGA-LGG methylation), el razonamiento clínico detrás de la comparación molecular vs histológica, la interpretación de los resultados de supervivencia y la discusión sobre los sistemas de codificación ICD-O / ICD-11 son aportación propia de la autora. El código en Python (preprocesado, clustering, análisis de supervivencia, visualización) fue escrito en colaboración con **Claude Code** (Anthropic) como asistente de programación, bajo la dirección de la autora.
+
 ## License
 
 [MIT](LICENSE)
